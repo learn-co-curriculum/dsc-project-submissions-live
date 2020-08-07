@@ -1,16 +1,16 @@
 # DS Phase Final Project Submission & Review
 
-This lesson provides instructions for submitting your project and explains how your project will be reviewed
+This lesson provides instructions for submitting your Phase Final Projects and explains how your projects will be reviewed.
 
 ## Submitting your Project
 
-To submit your project in Canvas, you will need to create and upload PDF versions of three project deliverables. You will also need to submit URLs to your GitHub repository and blog post in separate assignments.
+To submit your project in Canvas, you will create and upload PDF versions of three project deliverables. You will also submit URLs to your GitHub repository in a separate assignment.
 
 ### Presentation Slides PDF Creation
 
-1. Save or export your presentation as a PDF from the program in which you created it.
+1. Export your presentation as a PDF from the program in which you created it.
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
-3. Include a copy of the PDF in your GitHub repository.
+3. Place a copy of the PDF in your GitHub repository.
 
 ### GitHub Repository PDF Creation
 
@@ -41,7 +41,7 @@ You will need to submit all three PDF files as a single submission:
 
 ### URL Submission in Canvas
 
-There is an additional Canvas assignment where you will need to enter the URL for your GitHub Repository. This is listed in the "Phase X Milestones" module in this course as "Phase X Final Project - GitHub Repository URL"
+There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is listed in the "Phase X Milestones" module in this course as "Phase X Final Project - GitHub Repository URL."
 
 ## Project Review
 
@@ -53,7 +53,7 @@ Which review process you receive will depend on whether you passed the code chal
 
 If you passed the code challenge, your teacher will review your project to check that it is complete. Your project will pass if you have completed and submitted all project deliverables. Your project will not be graded using the project rubric at the bottom of the final project assignment, although you may find it helpful for guiding your project.
 
-### Did Not Pass Code Challenge: Rubric Scoring
+### Did Not Pass Code Challenge: Rubric Grading
 
 If you did not pass the code challenge, your teacher will use the rubric at the bottom of the project assignment to grade your submission. You can earn 0, 1, or 2 points on each rubric element. Your project will pass if it earns at least 50% of the points available.
 
