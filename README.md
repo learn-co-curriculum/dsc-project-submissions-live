@@ -37,7 +37,7 @@ You will need to submit all three PDF files as a single submission:
 4. Repeat Step 3 to upload one more file. After this is done, all three files should be uploaded.
 5. Hit the blue "Submit Assignment" button.
 
-![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-project-submissions-campus/master/project_pdf_submission.gif)
+![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-project-submissions-campus/master/project_3pdf_submission.gif)
 
 ### URL Submission in Canvas
 
