@@ -23,8 +23,8 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 ### Jupyter Notebook PDF Creation
 
 1. Open your Notebook in your browser (we recommend Google Chrome).
-2. Run the Notebook from start to finish so that your output is visible.
-3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+2. **Run the Notebook from start to finish** so that your output is visible.
+3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions][])
 4. Give it a short descriptive file name (e.g. `notebook.pdf`).
 
 ### PDF Submission in Canvas
@@ -62,3 +62,5 @@ If you did not pass the code challenge, your teacher will use the rubric at the 
 Thank you for your hard work on this project - you're going to do great! Remember that future employers will also look at your projects when deciding whether to hire you, so having complete, polished projects will help you tremendously not only to pass this assignment, but also to get the job you want after you graduate.
 
 If you have any questions about the project submission or review process, don't hesitate to ask your teacher.
+
+[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
