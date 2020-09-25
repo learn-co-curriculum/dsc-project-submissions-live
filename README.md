@@ -1,6 +1,6 @@
 # Project Submission & Review (Campus)
 
-This lesson provides instructions for submitting your End of Phase Projects and explains how your projects will be reviewed.
+This lesson provides instructions for submitting your End of Phase Projects and explains how your projects will be reviewed.TEST
 
 ## Submitting your Project
 
