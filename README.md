@@ -1,10 +1,36 @@
 # Project Submission & Review (Campus)
 
-This lesson provides instructions for submitting your End of Phase Projects and explains how your projects will be reviewed.
+## Introduction
 
-## Submitting your Project
+In this lesson, we review the requirements, submission, and review process for the Phase 2 Project.
 
-To submit your project in Canvas, you will create and upload PDF versions of three project deliverables. You will also submit URLs to your GitHub repository in a separate assignment.
+## Objectives
+
+You will be able to:
+
+* Create project deliverables that meet Flatiron School requirements
+* Submit your project deliverables in Canvas
+* Prepare for your project review
+
+## Create Your Project Deliverables
+
+Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment. Below is an overview of the three deliverables
+
+### GitHub Repository
+
+Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
+
+### Jupyter Notebook
+
+Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
+
+### Non-Technical Presentation
+
+Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. You will then present your project to your cohort.
+
+## Submit Your Project
+
+To submit your project in Canvas, you will create and upload PDF versions of three project deliverables. You will also submit the URL to your GitHub repository in a separate assignment.
 
 ### Presentation Slides PDF Creation
 
@@ -15,7 +41,7 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 ### GitHub Repository PDF Creation
 
 1. Navigate to the root directory of your project repository on GitHub, using your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
 3. Give it a short descriptive file name (e.g. `github.pdf`).
 
 ![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-project-submissions-campus/master/repo_pdf.gif)
@@ -24,7 +50,7 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 
 1. Open your Notebook in your browser (we recommend Google Chrome).
 2. **Run the Notebook from start to finish** so that your output is visible.
-3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions][])
+3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
 4. Give it a short descriptive file name (e.g. `notebook.pdf`).
 
 ### PDF Submission in Canvas
@@ -41,7 +67,7 @@ You will need to submit all three PDF files as a single submission:
 
 ### URL Submission in Canvas
 
-There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is listed in the "Phase X Milestones" module in this course as "Phase X Project - GitHub Repository URL."
+There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Phase X Project - GitHub Repository URL."
 
 ## Project Review
 
@@ -62,5 +88,3 @@ If you did not pass the code challenge, your teacher will use the rubric at the 
 Thank you for your hard work on this project - you're going to do great! Remember that future employers will also look at your projects when deciding whether to hire you, so having complete, polished projects will help you tremendously not only to pass this assignment, but also to get the job you want after you graduate.
 
 If you have any questions about the project submission or review process, don't hesitate to ask your teacher.
-
-[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
