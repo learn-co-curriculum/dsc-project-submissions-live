@@ -1,89 +1,77 @@
-# Project Submission & Review (Campus)
+# Project Submission & Review Instructions (Live)
 
 ## Introduction
 
-In this lesson, we review the requirements, submission, and review process for the Phase Projects.
+In this lesson, we review the submission, review, and grading process for the Phase Projects in the Live program.
 
-## Objectives
+## Submission and Review Process
 
-You will be able to:
+There are four overall steps to the project submission and review process:
 
-* Create project deliverables that meet Flatiron School requirements
-* Submit your project deliverables in Canvas
-* Prepare for your project review
+1. Push work to GitHub
+2. Submit deliverables on Canvas
+3. Project presentations
+4. Revise and resubmit (if needed)
 
-## Create Your Project Deliverables
+The deadlines for each of these steps will be communicated to you by your instructor.
 
-Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment. Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
+Your grade will not be finalized until you have completed all of these steps.
 
-### GitHub Repository
+### Pushing Work to GitHub
 
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
+The first step in creating your project should be to create a new GitHub repository. This can be a repository for you individually, or a repository for your group, depending on your collaboration strategy. If the project is individual, you need to create your own repository.
 
-### Jupyter Notebook
+As you work on the project, you should be pushing changes to GitHub along the way. This helps instructors to keep an eye on your progress, and provides a backup in case anything goes wrong with the copy on your computer.
 
-Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
+When you are ready to submit your deliverables, first make sure that you have pushed the latest version of your project to GitHub. You should be able to view the repository in the browser and double-check that your changes are there.
 
-### Non-Technical Presentation
+### Submitting Deliverables on Canvas
 
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. You will then present your project to your cohort.
+There are two separate assignments on Canvas for you to turn in your project. One is where you turn in PDF copies of your deliverables, and the other is where you turn in a link to your GitHub repository.
 
-## Submit Your Project
+* [Phase 1 Project - PDFs]()
+* [Phase 1 Project - GitHub Repository URL]()
 
-To submit your project in Canvas, you will create and upload PDF versions of three project deliverables. You will also submit the URL to your GitHub repository in a separate assignment.
+Additional instructions are provided on the individual assignments.
 
-### Presentation Slides PDF Creation
+When you are ready for the project presentation, first make sure that you have submitted these deliverables on Canvas.
 
-1. Export your presentation as a PDF from the program in which you created it.
-2. Give it a short descriptive file name (e.g. `presentation.pdf`).
-3. Place a copy of the PDF in your GitHub repository.
+### Presenting Projects
 
-### GitHub Repository PDF Creation
+For group projects, collaborate with your group members to determine which of the presentation slides will be presented by each person. You will need to be prepared to present your work in front of the class, and answer questions as needed.
 
-1. Navigate to the root directory of your project repository on GitHub, using your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
-3. Give it a short descriptive file name (e.g. `github.pdf`).
+For individual projects, you will present to the class, to a small group, or in a 1:1 meeting depending on your instructor's preference. Be prepared to walk through your notebook code as well as your presentation slides.
 
-![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-project-submissions-campus/master/repo_pdf.gif)
+For all projects, your instructor may provide immediate feedback about aspects of your project that need to be changed before a final submission. This might be something as minor as a typo, or it might be something more substantial. When presenting your project, be prepared to take notes about what changes need to be made, so you can check back and make sure that everything is fixed.
 
-### Jupyter Notebook PDF Creation
+### Revising and Resubmitting (If Needed)
 
-1. Open your Notebook in your browser (we recommend Google Chrome).
-2. **Run the Notebook from start to finish** so that your output is visible.
-3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
-4. Give it a short descriptive file name (e.g. `notebook.pdf`).
+Revision and resubmission may or may not be part of your process. The goal of this step is to make improvements from a level 2 (Approaching Objective) to level 3 (Meets Objective), or from a level 3 to a level 4 (Exceeds Objective). The passing bar is for all objectives to be at level 3 or higher.
 
-If you have difficulty creating a PDF version of your notebook, you can use [this tool](https://htmtopdf.herokuapp.com/ipynbviewer/) instead. Set the ‘Results Format’ to “HTML + PDF”. Then click ‘View and Convert’. Once it’s done, you should see links to .html and .pdf versions above the ‘View and Convert’ button.
+If your instructor requests that you make changes based on what you present, make sure that you push those new changes to GitHub as well as resubmitting the PDFs on Canvas. You should not need to resubmit the GitHub URL unless you accidentally submitted the wrong link the first time.
 
-### PDF Submission in Canvas
+## Grading
 
-You will need to submit all three PDF files as a single submission:
-
-1. Click "Submit Assignment" at the top of the "Phase X Project" assignment in the "Milestones" topic.
-2. In the "File Upload" box, click "Choose File" button to upload a single file.
-3. Click the "Add Another File" link to upload an additional file.
-4. Repeat Step 3 to upload one more file. After this is done, all three files should be uploaded.
-5. Hit the blue "Submit Assignment" button.
-
-![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-project-submissions-campus/master/project_3pdf_submission.gif)
-
-### URL Submission in Canvas
-
-There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Phase X Project - GitHub Repository URL."
-
-## Project Review
-
-You have until the end of the week to present your project and submit it for review. You will receive a grade of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically early in the week after you submit.
-
-Which review process you receive will depend on whether you passed the code challenge, as described below.
+All projects will be reviewed, but the process for determining whether you have passed the Phase depends on whether you passed the code challenge.
 
 ### Passed Code Challenge: Check for Completion
 
-If you passed the code challenge, your teacher will review your project to check that it is complete. Your project will pass if you have completed and submitted all project deliverables. Your project will not be graded using the project rubric at the bottom of the project assignment, although you may find it helpful for guiding your project.
+If you passed the code challenge, you have already passed the Phase. The project is still important for building up your portfolio and practicing the skills you have learned, but you are not required to pass the project in order to pass the Phase. You just need to make sure that you submit all of the required deliverables.
+
+Grading these projects will be prioritized lower than grading the projects submitted by students who did not pass the code challenge. You can expect feedback before you start the next project, but potentially no sooner.
 
 ### Did Not Pass Code Challenge: Rubric Grading
 
-If you did not pass the code challenge, your teacher will use the rubric at the bottom of the project assignment to grade your submission. You can earn 0, 1, or 2 points on each rubric element. Your project will pass if it earns at least 50% of the points available.
+If you did not pass the code challenge, your teacher will use the rubric at the bottom of the project assignment to determine whether you pass the Phase.
+
+You must achieve a "Meets Objective" or "Exceeds Objective" for all four rubric objectives. In Phase 1, these objectives are:
+
+* Attention to Detail
+* Data Communication
+* Authoring Jupyter Notebooks
+* Data Manipulation and Analysis with `pandas`
+
+See the [Phase 1 Project Description]() for complete details about these objectives.
 
 ## Conclusion
 
