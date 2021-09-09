@@ -1,4 +1,4 @@
-# Project Submission & Review Instructions (Live)
+# Project Submission and Review Instructions (Live)
 
 ## Introduction
 
