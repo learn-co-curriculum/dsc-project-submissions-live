@@ -1,18 +1,6 @@
 ---
 :lessons:
-- :id: 34561
+- :id: 128356
   :course_id: 153
-  :canvas_url: https://learning.flatironschool.com/courses/153/pages/project-submission-and-review-campus
-  :type: page
-- :id: 38822
-  :course_id: 343
-  :canvas_url: https://learning.flatironschool.com/courses/343/pages/project-submission-and-review-campus
-  :type: page
-- :id: 40612
-  :course_id: 346
-  :canvas_url: https://learning.flatironschool.com/courses/346/pages/project-submission-and-review-campus
-  :type: page
-- :id: 41531
-  :course_id: 347
-  :canvas_url: https://learning.flatironschool.com/courses/347/pages/project-submission-and-review-campus
+  :canvas_url: https://learning.flatironschool.com/courses/153/pages/project-submission-and-review-instructions-live
   :type: page

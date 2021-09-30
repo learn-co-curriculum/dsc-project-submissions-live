@@ -64,14 +64,27 @@ Grading these projects will be prioritized lower than grading the projects submi
 
 If you did not pass the code challenge, your teacher will use the rubric at the bottom of the project assignment to determine whether you pass the Phase.
 
-You must achieve a "Meets Objective" or "Exceeds Objective" for all four rubric objectives. In Phase 1, these objectives are:
+You must achieve a "Meets Objective" or "Exceeds Objective" for all four rubric objectives. 
+
+#### Phase 1
 
 * Attention to Detail
+  * 60% or higher to pass
 * Data Communication
 * Authoring Jupyter Notebooks
 * Data Manipulation and Analysis with `pandas`
 
-See the [Phase 1 Project Description]() for complete details about these objectives.
+See the [Phase 1 Project Description](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-3#grading) for complete details about these objectives.
+
+#### Phase 2
+
+* Attention to Detail
+  * 70% or higher to pass
+* Statistical Communication
+* Data Preparation Fundamentals
+* Linear Modeling
+
+See the [Phase 2 Project Description](https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-3#grading) for complete details about these objectives.
 
 ## Conclusion
 
