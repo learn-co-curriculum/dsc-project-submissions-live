@@ -76,16 +76,6 @@ You must achieve a "Meets Objective" or "Exceeds Objective" for all four rubric 
 
 See the [Phase 1 Project Description](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-3#grading) for complete details about these objectives.
 
-#### Phase 2
-
-* Attention to Detail
-  * 70% or higher to pass
-* Statistical Communication
-* Data Preparation Fundamentals
-* Linear Modeling
-
-See the [Phase 2 Project Description](https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-3#grading) for complete details about these objectives.
-
 ## Conclusion
 
 Thank you for your hard work on this project - you're going to do great! Remember that future employers will also look at your projects when deciding whether to hire you, so having complete, polished projects will help you tremendously not only to pass this assignment, but also to get the job you want after you graduate.
